@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\clsArticulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clsArticulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\clsArchivoArticulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clsArchivoArticulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\funcionesArticulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:funcionesArticulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T08:09:22.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "function.h",
+              "DocumentMoniker": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\function.h",
+              "RelativeDocumentMoniker": "function.h",
+              "ToolTip": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\function.h",
+              "RelativeToolTip": "function.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T08:03:14.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsArticulo.h",
+              "DocumentMoniker": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\clsArticulo.h",
+              "RelativeDocumentMoniker": "clsArticulo.h",
+              "ToolTip": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\clsArticulo.h",
+              "RelativeToolTip": "clsArticulo.h",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAIMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T06:57:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "funcionesArticulo.h",
+              "DocumentMoniker": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\funcionesArticulo.h",
+              "RelativeDocumentMoniker": "funcionesArticulo.h",
+              "ToolTip": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\funcionesArticulo.h",
+              "RelativeToolTip": "funcionesArticulo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T19:28:38.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsArchivoArticulo.h",
+              "DocumentMoniker": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\clsArchivoArticulo.h",
+              "RelativeDocumentMoniker": "clsArchivoArticulo.h",
+              "ToolTip": "E:\\1-Facultad\\LABORATORIO DE COMPUTACION 2\\1-EXAMEN INTEGRADOR\\clsArchivoArticulo.h",
+              "RelativeToolTip": "clsArchivoArticulo.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T06:57:55.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
